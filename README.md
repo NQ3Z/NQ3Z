@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Jehad &#128075;
+# Jehad Abdulwahab
 
-**Software developer &middot; creator of [JRS Core](https://github.com/NQ3Z/jrscore)**
+**Software developer with 10+ years of experience &middot; creator of [JRS Core](https://github.com/NQ3Z/jrscore)**
 
 [![Docs](https://img.shields.io/badge/Docs-docs.jrs--core.com-success?style=for-the-badge)](https://docs.jrs-core.com)
 [![Discord](https://img.shields.io/badge/Discord-jrscore-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jrscore)
@@ -13,14 +13,22 @@
 
 ## &#128100; About me
 
-I'm a programmer who enjoys building complete systems from the ground up: clean server code, fast databases and interfaces that feel good to use.
-I mostly write **Lua**, **JavaScript / Node.js** and **Python**, and I care about security, performance and clear documentation.
+I have been programming for over ten years. I design and ship complete systems on my own: server architecture, databases, security, tooling and the interfaces people use every day.
+I write code that is easy to read, fast to run and hard to break, and I document what I build.
 
-## &#128188; What I'm working on
+**Languages:** Lua &middot; JavaScript / Node.js &middot; Python &middot; SQL &middot; HTML / CSS
 
-**[JRS Core](https://github.com/NQ3Z/jrscore)** is the core I develop: a free and open-source base for RedM servers. It gives other scripts one shared API for players, money, items, menus and callbacks, so everything built on top of it works together.
+**What I focus on**
 
-- Source: [github.com/NQ3Z/jrscore](https://github.com/NQ3Z/jrscore)
+- Clean, modular architecture that other developers can build on
+- Performance: fewer loops, less network traffic, predictable memory use
+- Security: server-side validation, rate limits, safe defaults
+- Documentation and developer experience
+
+## &#128188; Main project
+
+**[JRS Core](https://github.com/NQ3Z/jrscore)** is the core I develop and maintain: a free and open-source base for RedM servers. It gives every script one shared API for players, money, items, menus and callbacks, so everything built on top of it works together.
+
 - Documentation: [docs.jrs-core.com](https://docs.jrs-core.com)
 - Community and support: [discord.gg/jrscore](https://discord.gg/jrscore)
 
