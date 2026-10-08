@@ -2,7 +2,7 @@
 
 # Jehad Abdulwahab
 
-**Software developer with 10+ years of experience &middot; creator of [JRS Core](https://github.com/NQ3Z/jrscore)**
+**Computer Science student &middot; software developer with 4+ years of experience &middot; creator of [JRS Core](https://github.com/NQ3Z/jrscore)**
 
 [![Docs](https://img.shields.io/badge/Docs-docs.jrs--core.com-success?style=for-the-badge)](https://docs.jrs-core.com)
 [![Discord](https://img.shields.io/badge/Discord-jrscore-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jrscore)
@@ -13,7 +13,7 @@
 
 ## &#128100; About me
 
-I have been programming for over ten years. I design and ship complete systems on my own: server architecture, databases, security, tooling and the interfaces people use every day.
+I'm a Computer Science student and I have been programming for over four years. I design and ship complete systems on my own: server architecture, databases, security, tooling and the interfaces people use every day.
 I write code that is easy to read, fast to run and hard to break, and I document what I build.
 
 **Languages:** Lua &middot; JavaScript / Node.js &middot; Python &middot; SQL &middot; HTML / CSS
